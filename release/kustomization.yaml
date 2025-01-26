@@ -1,0 +1,13 @@
+resources:
+- ad/
+- cart/
+- checkout/
+- currency/
+- email/
+- frontend/
+- loadgenerator/
+- payment/
+- productcatalog/
+- recommendation/
+- redis-cart/
+- shipping/
